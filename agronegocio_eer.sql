@@ -1,6 +1,6 @@
 -- Agronegócio EER Diagram - Script MySQL
 -- Criado para importação no MySQL Workbench ou execução direta
--- Autor: Kelven Silva (Projeto Exposição em Cristo)
+-- Autor: Kelven Silva 
 
 -- ============================
 -- 1) Fazendas
