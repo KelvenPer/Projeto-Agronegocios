@@ -46,12 +46,12 @@ A modelagem foi pensada para suportar indicadores estratégicos como:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/agronegocio-eer.git
+   git clone https://github.com/KelvenPer/Projeto-Agronegocios
    ```
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd agronegocio-eer
+   cd Projeto-Agronegocios
    ```
 3. Importe o arquivo `.sql` no seu MySQL Workbench ou rode no terminal:
 
@@ -132,4 +132,4 @@ GROUP BY c.contract_id, cp.name, c.type, pr.name, c.quantity_agreed;
 
 📂 Arquivo `.sql` completo disponível neste repositório.
 
-👉 [Clique aqui para acessar o repositório no GitHub](https://github.com/seu-usuario/agronegocio-eer)
+👉 [Clique aqui para acessar o repositório no GitHub](https://github.com/KelvenPer/Projeto-Agronegocios)
